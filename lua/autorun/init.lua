@@ -10,6 +10,7 @@ hook.Add("Think", "Resupply", function ()
 			ply:SetAmmo( 999, "AR2AltFire" )
 			ply:SetAmmo( 999, "357" )
 			ply:SetAmmo( 999, "BuckShot" )
+			ply:SetAmmo( 999, "SMG1_Grenade" )
 		end
         NextResupplyTime = CurTime() + 1
 	end	
