@@ -16,4 +16,5 @@ hook.Add("Think", "Resupply", function ()
 	end	
     end
 )
-Msg("Addon coded by Dogey - For any bugs or suggestion, goto this link http://forums.ulyssesmod.net/index.php/topic,8746.0.html ")
+Msg("Unlimited Ammo Addon coded by Dogey - For any bugs or suggestion, goto this link http://forums.ulyssesmod.net/index.php/topic,8746.0.html ")
+Msg("Works with every HL2 default guns, and any other guns out there, or available to gmod.")
