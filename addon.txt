@@ -4,6 +4,6 @@
         "up_date"           "1"
         "author_name"       "Dogey"
         "author_email"      "thederpypigs@gmail.com"
-        "info"              "Unlimited ammo automated"
+        "info"              "Unlimited ammo fully automated and functions after a map/server restart"
         "override"          "0"
 }
