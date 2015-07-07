@@ -16,4 +16,4 @@ hook.Add("Think", "Resupply", function ()
 	end	
     end
 )
-Msg("Addon coded by Dogey - Any bugs or suggestion, post on http://forums.ulyssesmod.net/index.php/topic,8746.0.html ")
+Msg("Addon coded by Dogey - Any bugs or suggestion, post on this link http://forums.ulyssesmod.net/index.php/topic,8746.0.html ")
